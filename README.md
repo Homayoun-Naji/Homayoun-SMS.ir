@@ -1,4 +1,4 @@
-# Homayoun Store Template
+# Homayoun SMS.ir
 
 This is my project that I implemented it by HTML, CSS and JavaScript From [SMS.ir](https://sms.ir) website :)
 
